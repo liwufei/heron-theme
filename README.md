@@ -1,2 +1,1 @@
-# heron-theme
-Heron theme website
+# heron theme
