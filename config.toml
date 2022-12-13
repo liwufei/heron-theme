@@ -1,0 +1,4 @@
+baseURL = 'https://heron-theme.netlify.app'
+languageCode = 'en-US'
+title = 'Heron theme'
+theme = 'heron'
